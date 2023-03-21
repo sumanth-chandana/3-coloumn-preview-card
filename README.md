@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click here](https://github.com/sumanth-chandana/3-coloumn-preview-card.git)
-- Live Site URL: [click here]()
+- Live Site URL: [click here](https://coloumn3-card-preview.netlify.app/)
 
 ## My process
 

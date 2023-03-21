@@ -31,7 +31,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100%;
-    background-color: var(--Transparent-white);
+    background-color: var(--Very-light-gray);
 }
 .container{
     display: flex;
@@ -40,7 +40,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     text-align: left;
-    margin: 0 200px;
+    margin: 0 250px;
     color: var(--White);
     width: auto;
 }
@@ -135,9 +135,6 @@ div.col-3>a{
     .col-1{
         border-radius: 10px 10px 0 0;
     }
-    .col-2{
-        border-radius: 0;
-    }
     .col-3{
         border-radius: 0 0 10px 10px;
     }
@@ -154,9 +151,6 @@ div.col-3>a{
     }
     .col-1{
         border-radius: 10px 10px 0 0;
-    }
-    .col-2{
-        border-radius: 0;
     }
     .col-3{
         border-radius: 0 0 10px 10px;
