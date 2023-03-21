@@ -110,7 +110,7 @@ div.col-3>a{
 	font-size: 12px;
 	text-align: center;
    	position: relative;
-    top: 15vh;
+    top: 13vh;
  }
 .attribution a { 
     	color: var(--Dark-blue);
@@ -120,7 +120,7 @@ div.col-3>a{
 
 .attribution>a:hover{
     font-size: medium;
-    border-bottom: 10px solid var(--dark-blue);
+    border-bottom: 1px solid var(--Dark-blue);
 }
 
 @media screen and (max-width: 970px) {
