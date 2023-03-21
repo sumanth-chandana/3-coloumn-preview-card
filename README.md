@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/sumanth-chandana/3-coloumn-preview-card.git)
+- Live Site URL: [click here]()
 
 ## My process
 
