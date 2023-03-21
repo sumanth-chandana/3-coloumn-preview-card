@@ -40,7 +40,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     text-align: left;
-    margin: 0 250px;
+    margin: 0 200px;
     color: var(--White);
     width: auto;
 }
