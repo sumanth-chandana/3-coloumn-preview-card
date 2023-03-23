@@ -38,7 +38,6 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    
     text-align: left;
     margin: 0 200px;
     color: var(--White);
@@ -146,10 +145,6 @@ div.col-3>a{
 
 @media screen and (max-width: 970px) {
 
-    body{
-        height: 100%;
-        margin: 20em 0 0 0;
-    }
     .container{
         flex-direction: column;
         margin: 10px;
